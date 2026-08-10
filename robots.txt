@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: spisok-licenzionnyh-kazino.github.io
+Sitemap: https://spisok-licenzionnyh-kazino.github.io/sitemap.xml
